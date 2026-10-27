@@ -1,4 +1,3 @@
-```java
 package com.schemepredictor.config;
 
 import com.schemepredictor.security.JwtAuthenticationFilter;
@@ -82,4 +81,3 @@ public class SecurityConfig {
         return source;
     }
 }
-```
